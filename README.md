@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxime-hadj
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML/CSS PHP/SQL
+- 🌱 I’m currently learning HTML/CSS PHP/SQL JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: maxime.hadj@laplateforme.io
 
