@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maxime-hadj
-- 👀 I’m interested in ...
+- 👀 I’m interested in getting an internship for 22/23
 - 🌱 I’m currently learning HTML/CSS PHP/SQL JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: maxime.hadj@laplateforme.io
 
 <!---
