@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maxime-hadj
-- 👀 I’m interested in drinking water
-- 🌱 I’m currently learning reactjs, node
+- 👋 Hi, I’m Max.
+- 👀 I’m interested in drinking water.
+- 🌱 I’m currently learning React, Node, Express, MongoDB & more.
 - 📫 How to reach me: maxime.hadj@laplateforme.io
 
 <!---
