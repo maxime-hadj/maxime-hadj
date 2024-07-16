@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Max.
-- 👀 I’m interested in drinking water.
 - 🌱 I’m currently learning React, Node, Express, MongoDB, APIs & more.
 - 📫 How to reach me: nekoline@gmail.com
 
